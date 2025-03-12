@@ -11,7 +11,7 @@ Este é um aplicativo React Native que permite pesquisar habilidades de Pokemons
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/pokemonApp.git
+    git clone https://github.com/Guiilhermendes/PokemonApp
     cd pokemonApp
     ```
 
